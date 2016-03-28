@@ -2,7 +2,10 @@
 /MapReduce$2.class
 /MapReduce$3.class
 /MapReduce$4.class
-/MapReduce$MapCallback.class
-/MapReduce$MappedItem.class
-/MapReduce$ReduceCallback.class
-/MapReduce.class
+/threadsafe/
+/threadsafe_version/
+/regular_version/
+/original_version/
+/threadpool_version/
+/nonthreadpool_version/
+/threaded_version/
